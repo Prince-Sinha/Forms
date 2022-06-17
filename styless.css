@@ -1,0 +1,58 @@
+body{
+  background-color: #AEDBCE;
+}
+
+h1{
+  font-family: "Ubuntu";
+  font-size: 3rem;
+  color:#816797;
+
+}
+
+.title{
+  padding-top:7%;
+  color:#fff;
+}
+.container{
+  background-color: #fff;
+  padding: 1% 3% 2% 3%;
+  width: 60%;
+  margin: 100px auto;
+  color:#816797;
+}
+ .form-content{
+   margin: 15px auto;
+ }
+ .submit-button{
+   text-align: center;
+ }
+.first-name{
+  color:#816797;
+  background-color: #ebdcf9;
+}
+.last-name{
+background-color: #ebdcf9;
+}
+.em{
+  background-color: #dfd0ed;}
+
+.ad{
+  background-color: #cdbedb;
+}
+.m{
+  background-color: #b9a4cd;
+}
+.form-control::placeholder {
+             font-family:  "Montserrat";
+            color:#816797;
+            opacity: 1;
+}
+.button{
+  background-color:#782bc1;
+   width:35%;
+   height:135%;
+}
+p{
+  color: #3EC70B;
+  font-weight: bold;
+}
